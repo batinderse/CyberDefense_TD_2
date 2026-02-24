@@ -1,0 +1,22 @@
+--- Marsı Savunma ---
+[20:29:04] Dalga 1 Başladı.
+[20:29:11] Üs hasar aldı: -5
+[20:29:12] Kule İnşa Edildi.
+[20:29:13] Üs hasar aldı: -5
+[20:29:14] Kule İnşa Edildi.
+[20:29:14] Üs hasar aldı: -5
+[20:29:16] Kule İnşa Edildi.
+[20:29:17] Dalga 1 Bitti.
+[20:29:20] Dalga 2 Başladı.
+[20:29:26] Üs hasar aldı: -5
+[20:29:28] Üs hasar aldı: -5
+[20:29:29] Üs hasar aldı: -5
+[20:29:30] Üs hasar aldı: -5
+[20:29:30] Üs hasar aldı: -5
+[20:29:31] Üs hasar aldı: -5
+[20:29:32] Üs hasar aldı: -5
+[20:29:32] Üs hasar aldı: -5
+[20:29:33] Üs hasar aldı: -5
+[20:29:34] Üs hasar aldı: -5
+[20:29:38] Kule İnşa Edildi.
+[20:29:38] OYUN KAZANILDI!
